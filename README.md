@@ -7,3 +7,7 @@
 決定面對多年未解的學經歷問題並求職，在尋求解決方案的過程中看到 [程式導師實驗計畫第五期](https://github.com/Lidemy/mentor-program-5th) 後，
 
 覺得相當適合，於是決定嘗試，這裡便是我每天的學習心得。 
+
+心得的形式是每天都會在 [Issues](https://github.com/orehsmer45/PTTP5-daily-notes/issues) 裡開一個新的 Issue 寫成文章來記錄，
+
+一到五每天會固定有一篇，期許這個系列能以順利求職做為結束。
